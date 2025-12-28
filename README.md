@@ -1,3 +1,5 @@
 # Hello, I'm Samir Anastasio 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=GitSolved&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=GitSolved&color=brightgreen)
+
+Security researcher exploring the intersection of **AI safety** and **offensive security**.
