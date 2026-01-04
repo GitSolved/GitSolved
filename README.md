@@ -2,7 +2,7 @@
 
 Hi, I’m Samir Anastasio — a Cybersecurity Engineer who enjoys breaking things (safely), then figuring out how to improve the project.  
 
-- 🔍 I like: digging into how systems actually fail, from Android apps to cloud misconfigurations.  
+- 🔍 I like: digging into how systems actually fail, from Web Applications to Cloud misconfigurations.  
 - 🧠 I learn: by building labs, running experiments, and turning mistakes into checklists.  
 - 🛠️ I build: small security tools, scripts, and proof‑of‑concepts to automate the boring parts.  
 
