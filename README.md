@@ -28,10 +28,6 @@ Right now I’m leveling up in:
 If there’s something new to learn, I probably have a tab open for it.
 
 ---
-
-### 🌐 Connect
-
-- 💼 LinkedIn: <your link>  
-- ✉️ Contact: <your email or preferred handle>  
+### 🌐 Let's Connect! Always looking to work on new projects  
 
 If you like security, breaking things, or over‑thinking architecture diagrams, we’ll probably get along.
